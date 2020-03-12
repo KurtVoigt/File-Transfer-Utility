@@ -1,5 +1,4 @@
-/*pproach," 5th Edition by Larry L. Peterson and Bruce S. Davis. Some code comes from
- * man pages, mostly getaddrinfo(3). */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
