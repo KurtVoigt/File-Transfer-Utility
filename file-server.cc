@@ -1,6 +1,4 @@
-/* This code is an updated version of the sample code from "Computer Networks: A Systems
- * Approach," 5th Edition by Larry L. Peterson and Bruce S. Davis. Some code comes from
- * man pages, mostly getaddrinfo(3). */
+
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netdb.h>
